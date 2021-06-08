@@ -1,0 +1,3 @@
+[submodule "monopoly"]
+	path = monopoly
+	url = https://github.com/rfcm29/monopoly.git
